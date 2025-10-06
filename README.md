@@ -12,7 +12,7 @@ Hands-on sessions in **MATLAB / Python** covering optimization, distributed opti
 
 ---
 
-## Lesson 1 — 15/10/2025 (3h)
+## Lesson 1
 
 **Topic:** Coding and simulation exercises in MATLAB / Python for Optimization algorithms.
 
@@ -31,7 +31,7 @@ Hands-on sessions in **MATLAB / Python** covering optimization, distributed opti
 
 ---
 
-## Lesson 2 — 22/10/2025 (3h)
+## Lesson 2
 
 **Topic:** Coding and simulation exercises in MATLAB / Python for **Distributed Optimization**.
 
@@ -44,7 +44,7 @@ Hands-on sessions in **MATLAB / Python** covering optimization, distributed opti
 
 ---
 
-## Lesson 3 — 31/10/2025 (3h)
+## Lesson 3
 
 **Topic:** Coding and simulation exercises in MATLAB / Python for **Big Data Reduction**.
 
@@ -60,7 +60,7 @@ Hands-on sessions in **MATLAB / Python** covering optimization, distributed opti
 
 ---
 
-## Lesson 4 — 12/11/2025 (3h)
+## Lesson 4
 
 **Topic:** Coding and simulation exercises in MATLAB / Python for **Feature Extraction** and **Goal-Oriented Communications**.
 
@@ -72,11 +72,3 @@ Hands-on sessions in **MATLAB / Python** covering optimization, distributed opti
 - Introductory notes on applications to **goal-oriented communications**
 
 ---
-
-## Materials & Requirements
-
-- **Software:** MATLAB (with CVX) or Python (NumPy/SciPy; CVXPY optional)
-- **Reference datasets:** `MPG-DATASET`, `Breast Cancer`, and image sets for CS/denoising
-- **Deliverables:** scripts/notebooks with reproducible code and a short report on results (plots, metrics, discussion)
-
-> Tip: organize code into reusable modules/utilities (e.g., soft-threshold operators, ADMM/ISTA routines, dataset wrappers) to make method comparisons easier.
